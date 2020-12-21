@@ -1,6 +1,8 @@
-#What is this?
+# What is this?
 
 Robofriends is a simple interactive front-end project built using React framework.
+
+# How to use?
 
 In the project directory, you can run:
 
